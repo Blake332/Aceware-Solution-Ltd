@@ -4,7 +4,7 @@ This repository contains both the frontend and backend for the Aceware website.
 
 ## Structure
 
-Aceware Solution Ltd
+ACEWARE
 
 ## Deployment
 
