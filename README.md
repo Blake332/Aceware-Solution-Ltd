@@ -1,0 +1,15 @@
+# Aceware Website
+
+This repository contains both the frontend and backend for the Aceware website.
+
+## Structure
+
+Aceware Solution Ltd
+
+## Deployment
+
+- Frontend deployed via GitHub Pages
+- Backend deployed via Render
+
+## Author
+Aceware Solution Limited
